@@ -12,6 +12,8 @@ namespace _111
 
             Console.WriteLine("Привет, " + name);
 
+            Console.WriteLine("А теперь пошел в дупу!");
+
             Console.WriteLine("Нажмите <enter> для выхода . . .");
 
             Console.Read();
