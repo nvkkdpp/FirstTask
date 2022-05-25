@@ -1,0 +1,5 @@
+C:\Users\Илья\Desktop\ТЕСТЫ БЛЯ\111.exe
+C:\Users\Илья\Desktop\ТЕСТЫ БЛЯ\111.dll
+C:\Users\Илья\Desktop\ТЕСТЫ БЛЯ\111.deps.json
+C:\Users\Илья\Desktop\ТЕСТЫ БЛЯ\111.runtimeconfig.json
+C:\Users\Илья\Desktop\ТЕСТЫ БЛЯ\111.pdb
