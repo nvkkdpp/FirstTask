@@ -12,3 +12,17 @@ C:\Users\Илья\source\repos\111\111\obj\Debug\netcoreapp3.1\111.csproj.CoreCo
 C:\Users\Илья\source\repos\111\111\obj\Debug\netcoreapp3.1\111.dll
 C:\Users\Илья\source\repos\111\111\obj\Debug\netcoreapp3.1\111.pdb
 C:\Users\Илья\source\repos\111\111\obj\Debug\netcoreapp3.1\111.genruntimeconfig.cache
+C:\Проекты vs\GitHub\firsttask\111\bin\Debug\netcoreapp3.1\111.exe
+C:\Проекты vs\GitHub\firsttask\111\bin\Debug\netcoreapp3.1\111.deps.json
+C:\Проекты vs\GitHub\firsttask\111\bin\Debug\netcoreapp3.1\111.runtimeconfig.json
+C:\Проекты vs\GitHub\firsttask\111\bin\Debug\netcoreapp3.1\111.runtimeconfig.dev.json
+C:\Проекты vs\GitHub\firsttask\111\bin\Debug\netcoreapp3.1\111.dll
+C:\Проекты vs\GitHub\firsttask\111\bin\Debug\netcoreapp3.1\111.pdb
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.csproj.AssemblyReference.cache
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.AssemblyInfoInputs.cache
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.AssemblyInfo.cs
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.csproj.CoreCompileInputs.cache
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.dll
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.pdb
+C:\Проекты vs\GitHub\firsttask\111\obj\Debug\netcoreapp3.1\111.genruntimeconfig.cache
